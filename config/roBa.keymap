@@ -86,6 +86,8 @@
             tap-ms = <20>;
         };
 
+        ・・・(省略)・・・
+    };
 
     keymap {
         compatible = "zmk,keymap";
